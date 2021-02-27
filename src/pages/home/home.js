@@ -5,7 +5,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import TwitterIcon from '@material-ui/icons/Twitter';
 function Home() {
   return (
-      <div className="App">
+      <div className="App" style={{margin:'5%'}}>
           <div className="home-left">
             <h2>Hi 👋 I'm</h2> 
               <h1 className="home-name">Satyajit Panda</h1>    
