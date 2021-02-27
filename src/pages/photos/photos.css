@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.photos-title {
+  color: red;
+}
+.card-list {
+  column-count: 3;
+}
+
+.card {
+  margin-bottom: 1rem;
+  display: flex;
+}
+
+.card--image {
+  flex: 100%;
+  margin-top: 1rem;
+  border-radius: 10px;
+}
