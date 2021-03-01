@@ -1,0 +1,19 @@
+.head-1 {
+  color: aliceblue;
+}
+
+.box-left img {
+  float: left;
+  width: 20%;
+  margin-left: 10%;
+}
+
+.box-left p {
+  float: right;
+  color: aliceblue;
+}
+
+.box-right img {
+  float: right;
+  width: 20%;
+}
